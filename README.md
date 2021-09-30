@@ -9,9 +9,7 @@
 ### &#x1f4c8; GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BahiaSechi&theme=dracula&langs_count=5)
-![Github stats](https://github-readme-stats.vercel.app/api?username=BahiaSechi&show_icons=true&theme=dracula)
-![Github stats](https://github-profile-trophy.vercel.app/?username=BahiaSechi&theme=dracula)
-
+![Github stats](https://github-profile-trophy.vercel.app/?username=BahiaSechi&theme=dracula&column=3&margin-w=15&margin-h=15&rank=S,AAA,A,B,C)
 
 ## 🌙 About my passions
 - :books: **Reading:** Crime and Punishment, Fyodor Dostoevsky
