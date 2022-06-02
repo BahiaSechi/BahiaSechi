@@ -1,4 +1,4 @@
-# Nice to meet you ! <img src="https://github.com/BahiaSechi/BahiaSechi/blob/main/wave.gif" width="30px">
+# Nice to meet you !
 
 ## :sunny: About my skills 
 - :computer: **Studying IT:** ENSICAEN, Caen, France
